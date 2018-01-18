@@ -1,1 +1,1 @@
-# vendorApp
+# VendorApp
